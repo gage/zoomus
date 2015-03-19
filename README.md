@@ -1,4 +1,5 @@
-[![Codementor Profile](https://s3.amazonaws.com/codementor_assets/assets/badge-github.svg)](https://www.codementor.io/gagedark)
+[![Codementor Profile](	
+https://s3.amazonaws.com/codementor_assets/assets/badge-github.png)](https://www.codementor.io/gagedark)
 
 # Zoomus Gem
 
