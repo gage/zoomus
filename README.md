@@ -1,3 +1,5 @@
+[![Codementor Profile](https://s3.amazonaws.com/codementor_assets/assets/badge-github%40x2.png)](https://www.codementor.io/gagedark)
+
 # Zoomus Gem
 
 Ruby wrapper gem for zoom.us API v1.
